@@ -2,7 +2,7 @@
 
 ## Feel free to contact me anytime!👍
 
-![My Blog](https://www.shirashun.com/)
+[My Blog](https://www.shirashun.com/)
 
 ## My Skill (Programming Languages, Frameworks and Tools)
 
