@@ -14,7 +14,5 @@ Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
 ## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shunshiratori&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shunshiratori&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shunshiratori&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shunshiratori&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shunshiratori&theme=prussian&utcOffset=8)
