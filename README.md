@@ -31,8 +31,3 @@ Spring Boot 製のタスク管理 REST API。JWT 認証によるユーザー認�
 <img src="https://skillicons.dev/icons?i=html,css,js,next,mysql,firebase,vscode,vite" />
 
 **Less frequently used:** PHP, WordPress, jQuery, CodeIgniter, CakePHP, CircleCI, VirtualBox
-
-## Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shunshiratori&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shunshiratori&theme=prussian&utcOffset=9)
